@@ -1,0 +1,2511 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#iPhone_13_mini__3 {
+    position: absolute;
+    width: 375px;
+    height: 812px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: iPhone 13 mini – 3;
+    --web-view-id: iPhone_13_mini__3;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+
+}
+#Composant_1__3 {
+    position: absolute;
+    width: 375px;
+    height: 76px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1 {
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_1 {
+    position: absolute;
+    overflow: visible;
+    width: 375px;
+    height: 76px;
+    left: 0px;
+    top: 0px;
+}
+#kisspng-bts-love-yourself-her- {
+    position: absolute;
+    width: 70px;
+    height: 67px;
+    left: 15px;
+    top: 5px;
+    overflow: visible;
+}
+#Icon_feather-menu {
+    position: absolute;
+    width: 27px;
+    height: 18px;
+    left: 310px;
+    top: 32px;
+    overflow: visible;
+}
+#Trac_1 {
+    fill: transparent;
+    stroke: rgba(224,171,202,1);
+    stroke-width: 3px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trac_1 {
+    overflow: visible;
+    position: absolute;
+    width: 30px;
+    height: 3px;
+    left: 0px;
+    top: 9px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trac_2 {
+    fill: transparent;
+    stroke: rgba(224,171,202,1);
+    stroke-width: 3px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trac_2 {
+    overflow: visible;
+    position: absolute;
+    width: 30px;
+    height: 3px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trac_3 {
+    fill: transparent;
+    stroke: rgba(224,171,202,1);
+    stroke-width: 3px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trac_3 {
+    overflow: visible;
+    position: absolute;
+    width: 30px;
+    height: 3px;
+    left: 0px;
+    top: 18px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Composant_17__1 {
+    position: absolute;
+    width: 375px;
+    height: 736px;
+    left: 0px;
+    top: 76px;
+    overflow: visible;
+}
+#Rectangle_2_ {
+    fill: url(#Rectangle_2_);
+}
+.Rectangle_2_ {
+    position: absolute;
+    overflow: visible;
+    width: 375px;
+    height: 736px;
+    left: 0px;
+    top: 0px;
+}
+#TheAstronaut {
+    filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    width: 302px;
+    height: 284px;
+    left: 37px;
+    top: 171px;
+    overflow: visible;
+}
+#Icon_ionic-ios-arrow-dropleft- {
+    fill: rgba(255,255,255,0.502);
+}
+.Icon_ionic-ios-arrow-dropleft- {
+    overflow: visible;
+    position: absolute;
+    width: 29.25px;
+    height: 29.25px;
+    left: 22.375px;
+    top: 315.375px;
+    transform: matrix(1,0,0,1,0,0);
+    transition: all 0.800000011920929s ease-in-out;
+    --web-animation: fadein 0.800000011920929s ease-in-out;
+    --web-action-type: page;
+    --web-action-target: iPhone_13_mini___2.html;
+    cursor: pointer;
+}
+#Icon_ionic-ios-arrow-dropright {
+    fill: rgba(255,255,255,0.502);
+}
+.Icon_ionic-ios-arrow-dropright {
+    overflow: visible;
+    position: absolute;
+    width: 29.25px;
+    height: 29.25px;
+    left: 324.375px;
+    top: 315.375px;
+    transform: matrix(1,0,0,1,0,0);
+    transition: all 0.800000011920929s ease-in-out;
+    --web-animation: fadein 0.800000011920929s ease-in-out;
+    --web-action-type: page;
+    --web-action-target: iPhone_13_mini___4.html;
+    cursor: pointer;
+}
+#THE_ASTRONAUT {
+    left: 24px;
+    top: 42px;
+    position: absolute;
+    overflow: visible;
+    width: 328px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Le_nouvel_album_de_Jin {
+    left: 102px;
+    top: 100px;
+    position: absolute;
+    overflow: visible;
+    width: 173px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+}
+#Composant_2__3 {
+    position: absolute;
+    width: 199px;
+    height: 46px;
+    left: 88px;
+    top: 518px;
+    overflow: visible;
+    padding: 13px;
+}
+#Rectangle_4 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_4 {
+    position: absolute;
+    overflow: visible;
+    width: 199px;
+    height: 46px;
+    left: 0px;
+    top: 0px;
+}
+#Dcouvrir_le_single {
+    left: 13px;
+    top: 13px;
+    position: absolute;
+    overflow: visible;
+    width: 174px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Groupe_1 {
+    position: absolute;
+    width: 125px;
+    height: 46px;
+    left: 125px;
+    top: 601px;
+    overflow: visible;
+    padding: 13px;
+}
+#Rectangle_4_bc {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_4_bc {
+    position: absolute;
+    overflow: visible;
+    width: 125px;
+    height: 46px;
+    left: 0px;
+    top: 0px;
+}
+#Traduction {
+    left: 13px;
+    top: 13px;
+    position: absolute;
+    overflow: visible;
+    width: 100px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Icon_ionic-ios-arrow-dropleft-_be {
+    fill: rgba(255,255,255,1);
+}
+.Icon_ionic-ios-arrow-dropleft-_be {
+    overflow: visible;
+    position: absolute;
+    width: 29.25px;
+    height: 29.25px;
+    transform: translate(0px, 0px) matrix(1,0,0,1,172.875,684) rotate(-90deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+    transition: all 0.800000011920929s ease-in-out;
+    --web-animation: fadein 0.800000011920929s ease-in-out;
+    --web-action-type: page;
+    --web-action-target: iPhone_13_mini___7.html;
+    cursor: pointer;
+}
+#Icon_ionic-ios-arrow-dropleft-_bf {
+    fill: rgba(255,255,255,1);
+}
+.Icon_ionic-ios-arrow-dropleft-_bf {
+    overflow: visible;
+    position: absolute;
+    width: 29.25px;
+    height: 29.25px;
+    transform: matrix(1,0,0,1,172.875,760) rotate(-90deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Text {
+    left: 133px;
+    top: 484px;
+    position: absolute;
+    overflow: visible;
+    width: 111px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 70px;
+    color: rgba(255,255,255,1);
+}
+
+#iPhone_13_mini__7 {
+    position: absolute;
+    width: 375px;
+    height: 7497px;
+    background-color: rgba(255,254,255,1);
+    overflow: hidden;
+    --web-view-name: iPhone 13 mini – 7;
+    --web-view-id: iPhone_13_mini__7;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+
+}
+#Rectangle_13_u {
+    fill: url(#Rectangle_13_u);
+}
+.Rectangle_13_u {
+    position: absolute;
+    overflow: visible;
+    width: 375px;
+    height: 606px;
+    left: 0px;
+    top: 76px;
+}
+#Composant_1__7 {
+    position: absolute;
+    width: 375px;
+    height: 76px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Trac_4 {
+    fill: transparent;
+}
+.Trac_4 {
+    overflow: visible;
+    position: absolute;
+    width: 375px;
+    height: 76px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#kisspng-bts-love-yourself-her- {
+    position: absolute;
+    width: 70px;
+    height: 67px;
+    left: 15px;
+    top: 5px;
+    overflow: visible;
+}
+#Icon_feather-menu {
+    position: absolute;
+    width: 27px;
+    height: 18px;
+    left: 310px;
+    top: 32px;
+    overflow: visible;
+}
+#Trac_1 {
+    fill: transparent;
+    stroke: rgba(224,171,202,1);
+    stroke-width: 3px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trac_1 {
+    overflow: visible;
+    position: absolute;
+    width: 30px;
+    height: 3px;
+    left: 0px;
+    top: 9px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trac_2 {
+    fill: transparent;
+    stroke: rgba(224,171,202,1);
+    stroke-width: 3px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trac_2 {
+    overflow: visible;
+    position: absolute;
+    width: 30px;
+    height: 3px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trac_3 {
+    fill: transparent;
+    stroke: rgba(224,171,202,1);
+    stroke-width: 3px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trac_3 {
+    overflow: visible;
+    position: absolute;
+    width: 30px;
+    height: 3px;
+    left: 0px;
+    top: 18px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#BTS {
+    left: 152px;
+    top: 113px;
+    position: absolute;
+    overflow: visible;
+    width: 72px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Lanc_en_juin_2013_par_Big_Hit_ {
+    left: 32px;
+    top: 175px;
+    position: absolute;
+    overflow: visible;
+    width: 313px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+}
+#Composant_5__1 {
+    position: absolute;
+    width: 375px;
+    height: 930px;
+    left: 0px;
+    top: 559px;
+    overflow: visible;
+}
+#Icon_ionic-ios-arrow-dropleft- {
+    fill: rgba(255,255,255,0.251);
+}
+.Icon_ionic-ios-arrow-dropleft- {
+    overflow: visible;
+    position: absolute;
+    width: 29.25px;
+    height: 29.25px;
+    left: 22.375px;
+    top: 447.375px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_ionic-ios-arrow-dropright {
+    fill: rgba(255,255,255,0.251);
+}
+.Icon_ionic-ios-arrow-dropright {
+    overflow: visible;
+    position: absolute;
+    width: 29.25px;
+    height: 29.25px;
+    left: 324.375px;
+    top: 447.375px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Composant_3__1 {
+    position: absolute;
+    width: 375px;
+    height: 482px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Capture_dcran_2023-01-25_09273 {
+    position: absolute;
+    width: 121px;
+    height: 374px;
+    left: 0px;
+    top: 108px;
+    overflow: visible;
+    transition: all 0.6000000238418579s ease-in-out;
+    --web-animation: fadein 0.6000000238418579s ease-in-out;
+    --web-action-type: page;
+    --web-action-target: iPhone_13_mini___9.html;
+    cursor: pointer;
+}
+#Capture_dcran_2023-01-25_09305 {
+    position: absolute;
+    width: 134px;
+    height: 295px;
+    left: 121px;
+    top: 0px;
+    overflow: visible;
+    transition: all 0.6000000238418579s ease-in-out;
+    --web-animation: fadein 0.6000000238418579s ease-in-out;
+    --web-action-type: page;
+    --web-action-target: iPhone_13_mini___8.html;
+    cursor: pointer;
+}
+#Capture_dcran_2023-01-25_09303 {
+    position: absolute;
+    width: 120px;
+    height: 374px;
+    left: 255px;
+    top: 108px;
+    overflow: visible;
+    transition: all 0.6000000238418579s ease-in-out;
+    --web-animation: fadein 0.6000000238418579s ease-in-out;
+    --web-action-type: page;
+    --web-action-target: iPhone_13_mini___10.html;
+    cursor: pointer;
+}
+#Composant_4__1 {
+    position: absolute;
+    width: 375px;
+    height: 450px;
+    left: 0px;
+    top: 480px;
+    overflow: visible;
+}
+#Capture_dcran_2023-01-25_09291 {
+    position: absolute;
+    width: 124px;
+    height: 333px;
+    left: 251px;
+    top: 0px;
+    overflow: visible;
+}
+#Capture_dcran_2023-01-25_09294 {
+    position: absolute;
+    width: 134px;
+    height: 299px;
+    left: 121px;
+    top: 151px;
+    overflow: visible;
+}
+#Capture_dcran_2023-01-25_09300 {
+    position: absolute;
+    width: 121px;
+    height: 333px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Capture_dcran_2023-01-25_09285 {
+    position: absolute;
+    width: 134px;
+    height: 342px;
+    left: 121px;
+    top: 291px;
+    overflow: visible;
+}
+#Composant_21__2 {
+    position: absolute;
+    width: 331.25px;
+    height: 451px;
+    left: 21.875px;
+    top: 1535px;
+    overflow: visible;
+}
+#Icon_ionic-ios-arrow-dropleft-_bh {
+    fill: rgba(255,255,255,0.251);
+}
+.Icon_ionic-ios-arrow-dropleft-_bh {
+    overflow: visible;
+    position: absolute;
+    width: 29.25px;
+    height: 29.25px;
+    left: 0px;
+    top: 280.375px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_ionic-ios-arrow-dropright_bi {
+    fill: rgba(255,255,255,0.251);
+}
+.Icon_ionic-ios-arrow-dropright_bi {
+    overflow: visible;
+    position: absolute;
+    width: 29.25px;
+    height: 29.25px;
+    left: 302px;
+    top: 280.375px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#DISCOGRAPHIE {
+    left: 17.625px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 296px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Si_BTS_a_sorti_en_juin_2013_so {
+    left: 13.625px;
+    top: 81px;
+    position: absolute;
+    overflow: visible;
+    width: 303px;
+    height: 370px;
+    text-align: center;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(0,0,0,1);
+}
+#n_____ {
+    left: 105px;
+    top: 5491px;
+    position: absolute;
+    overflow: visible;
+    width: 167px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgba(224,171,202,1);
+    letter-spacing: 2.06px;
+}
+#Composant_14__1 {
+    position: absolute;
+    width: 376px;
+    height: 461px;
+    left: -1px;
+    top: 7052px;
+    overflow: visible;
+}
+#Rectangle_9_bo {
+    fill: url(#Rectangle_9_bo);
+}
+.Rectangle_9_bo {
+    position: absolute;
+    overflow: visible;
+    width: 375px;
+    height: 327px;
+    left: 0px;
+    top: 0px;
+}
+#BTS_bp {
+    left: 166px;
+    top: 29px;
+    position: absolute;
+    overflow: visible;
+    width: 45px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Histoire_du_Groupe {
+    left: 36px;
+    top: 130px;
+    position: absolute;
+    overflow: visible;
+    width: 132px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Discographie {
+    left: 36px;
+    top: 175px;
+    position: absolute;
+    overflow: visible;
+    width: 92px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Clips_Vido {
+    left: 36px;
+    top: 220px;
+    position: absolute;
+    overflow: visible;
+    width: 77px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Nouveaux_Albums {
+    left: 36px;
+    top: 85px;
+    position: absolute;
+    overflow: visible;
+    width: 126px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Rectangle_10 {
+    fill: rgba(151,151,151,1);
+}
+.Rectangle_10 {
+    position: absolute;
+    overflow: visible;
+    width: 376px;
+    height: 134px;
+    left: 0px;
+    top: 327px;
+}
+#Composant_13__1 {
+    position: absolute;
+    width: 243.322px;
+    height: 22.013px;
+    left: 65.839px;
+    top: 415px;
+    overflow: visible;
+}
+#Icon_awesome-twitter {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-twitter {
+    overflow: visible;
+    position: absolute;
+    width: 20.718px;
+    height: 16.827px;
+    left: 0px;
+    top: 3.895px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-facebook-f {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-facebook-f {
+    overflow: visible;
+    position: absolute;
+    width: 11.096px;
+    height: 20.719px;
+    left: 65.359px;
+    top: 1.295px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-instagram {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-instagram {
+    overflow: visible;
+    position: absolute;
+    width: 18.139px;
+    height: 18.135px;
+    left: 108.79px;
+    top: 1.294px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-youtube {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-youtube {
+    overflow: visible;
+    position: absolute;
+    width: 22.1px;
+    height: 15.539px;
+    left: 159.262px;
+    top: 1.295px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-twitch {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-twitch {
+    overflow: visible;
+    position: absolute;
+    width: 17.319px;
+    height: 18.129px;
+    left: 226.002px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Mentions_lgales__Politique_de_ {
+    left: 59px;
+    top: 382px;
+    position: absolute;
+    overflow: visible;
+    width: 258px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#BTS_ARMY_FRANCE_HAVRE_2023__To {
+    left: 39px;
+    top: 356px;
+    position: absolute;
+    overflow: visible;
+    width: 299px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(255,255,255,0.502);
+    letter-spacing: 0.5px;
+}
+#Composant_2__7 {
+    position: absolute;
+    width: 100px;
+    height: 41px;
+    left: 138px;
+    top: 492px;
+    overflow: visible;
+    padding: 13px;
+}
+#Rectangle_4 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_4 {
+    position: absolute;
+    overflow: visible;
+    width: 100px;
+    height: 41px;
+    left: 0px;
+    top: 0px;
+}
+#Lire_la_suite {
+    left: 13px;
+    top: 13px;
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Composant_33__1 {
+    position: absolute;
+    width: 308px;
+    height: 1048px;
+    left: 34px;
+    top: 2150px;
+    overflow: visible;
+}
+#Composant_9__18 {
+    position: absolute;
+    width: 302px;
+    height: 261px;
+    left: 6px;
+    top: 0px;
+    overflow: visible;
+}
+#NoPath_-_Copie {
+    position: absolute;
+    width: 146px;
+    height: 146px;
+    left: 0px;
+    top: 41px;
+    overflow: visible;
+}
+#n__Intro_ORUL82_2_NO_3_We_On_4 {
+    left: 176px;
+    top: 41px;
+    position: absolute;
+    overflow: visible;
+    width: 127px;
+    height: 188px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.5px;
+}
+#ORUL82____2013 {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 177px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Ou_lcouter_ {
+    left: 36px;
+    top: 249px;
+    position: absolute;
+    overflow: visible;
+    width: 76px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(0,0,0,0.502);
+    letter-spacing: 0.5px;
+}
+#Youtube {
+    left: 255px;
+    top: 249px;
+    position: absolute;
+    overflow: visible;
+    width: 48px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Deezer {
+    left: 193px;
+    top: 249px;
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Spotify {
+    left: 130px;
+    top: 249px;
+    position: absolute;
+    overflow: visible;
+    width: 43px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Composant_9__3 {
+    position: absolute;
+    width: 302px;
+    height: 256px;
+    left: 6px;
+    top: 323px;
+    overflow: visible;
+}
+#NoPath_-_Copie_2 {
+    position: absolute;
+    width: 146px;
+    height: 146px;
+    left: 0px;
+    top: 40px;
+    overflow: visible;
+}
+#n__Intro_Skool_Luv_Affair_2_Bo {
+    left: 176px;
+    top: 40px;
+    position: absolute;
+    overflow: visible;
+    width: 127px;
+    height: 188px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.5px;
+}
+#Skool_Luv_Affair____2014 {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 231px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Ou_lcouter__cj {
+    left: 32px;
+    top: 244px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.5px;
+}
+#Youtube_ck {
+    left: 255px;
+    top: 244px;
+    position: absolute;
+    overflow: visible;
+    width: 48px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Spotify_cl {
+    left: 162px;
+    top: 244px;
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Composant_9__4 {
+    position: absolute;
+    width: 307px;
+    height: 335px;
+    left: 0px;
+    top: 640px;
+    overflow: visible;
+}
+#NoPath {
+    position: absolute;
+    width: 146px;
+    height: 146px;
+    left: 0px;
+    top: 66px;
+    overflow: visible;
+}
+#n__Miss_Right_2_Like_Slow_Jam_ {
+    left: 176px;
+    top: 66px;
+    position: absolute;
+    overflow: visible;
+    width: 132px;
+    height: 236px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.5px;
+}
+#Skool_Luv_Affair__Special_addi {
+    left: 5px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 251px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Ou_lcouter__cq {
+    left: 36px;
+    top: 322px;
+    position: absolute;
+    overflow: visible;
+    width: 76px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.5px;
+}
+#Youtube_cr {
+    left: 258px;
+    top: 322px;
+    position: absolute;
+    overflow: visible;
+    width: 50px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Deezer_cs {
+    left: 205px;
+    top: 323px;
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Spotify_ct {
+    left: 135px;
+    top: 323px;
+    position: absolute;
+    overflow: visible;
+    width: 44px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Composant_2__9 {
+    position: absolute;
+    width: 100px;
+    height: 41px;
+    left: 107px;
+    top: 1007px;
+    overflow: visible;
+    padding: 13px;
+}
+#Rectangle_4_cv {
+    fill: transparent;
+    stroke: rgba(171,189,224,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_4_cv {
+    position: absolute;
+    overflow: visible;
+    width: 100px;
+    height: 41px;
+    left: 0px;
+    top: 0px;
+}
+#Lire_la_suite_cw {
+    left: 13px;
+    top: 13px;
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Composant_32__2 {
+    position: absolute;
+    width: 375px;
+    height: 1286.5px;
+    left: 0px;
+    top: 4418px;
+    overflow: visible;
+}
+#Rectangle_15_cz {
+    fill: url(#Rectangle_15_cz);
+}
+.Rectangle_15_cz {
+    position: absolute;
+    overflow: visible;
+    width: 375px;
+    height: 1063px;
+    left: 0px;
+    top: 223.5px;
+}
+#Rectangle_14_c {
+    fill: url(#Rectangle_14_c);
+}
+.Rectangle_14_c {
+    position: absolute;
+    overflow: visible;
+    width: 375px;
+    height: 227.5px;
+    left: 0px;
+    top: 0px;
+}
+#Composant_23__1 {
+    position: absolute;
+    width: 302px;
+    height: 652px;
+    left: 36.5px;
+    top: 92px;
+    overflow: visible;
+}
+#Clips_Vidos {
+    left: 18.5px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 266px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
+#Tous_les_grands_noms_de_la_mus {
+    left: 0px;
+    top: 93px;
+    position: absolute;
+    overflow: visible;
+    width: 303px;
+    height: 559px;
+    text-align: center;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+}
+#Groupe_dfilant_3 {
+    mix-blend-mode: normal;
+    position: absolute;
+    width: 302px;
+    height: 410px;
+    left: 36px;
+    top: 771px;
+    overflow: hidden;
+}
+#Composant_25__1 {
+    position: absolute;
+    width: 307.813px;
+    height: 395.625px;
+    left: -4.812px;
+    top: 3px;
+    overflow: visible;
+}
+#Composant_24__1 {
+    position: absolute;
+    width: 290.813px;
+    height: 395.625px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Icon_ionic-ios-arrow-dropleft-_c {
+    fill: rgba(255,255,255,0.251);
+}
+.Icon_ionic-ios-arrow-dropleft-_c {
+    overflow: visible;
+    position: absolute;
+    width: 29.25px;
+    height: 29.25px;
+    left: 0px;
+    top: 366.375px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Composant_32__1 {
+    position: absolute;
+    width: 286px;
+    height: 200px;
+    left: 4.813px;
+    top: 0px;
+    overflow: visible;
+}
+#School_Trilogy {
+    left: 2px;
+    top: 95px;
+    position: absolute;
+    overflow: visible;
+    width: 174px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+    text-transform: capitalize;
+}
+#Leur_premier_single_No_More_Dr {
+    left: 2px;
+    top: 140px;
+    position: absolute;
+    overflow: visible;
+    width: 285px;
+    height: 60px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Text_dd {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 124px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 75px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 2px;
+    text-transform: capitalize;
+}
+#Text_dd {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 124px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 75px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 2px;
+    text-transform: capitalize;
+}
+#Composant_12__13 {
+    position: absolute;
+    width: 301px;
+    height: 162px;
+    left: 6.813px;
+    top: 222px;
+    overflow: visible;
+}
+#NoPath_-_Copie_df {
+    position: absolute;
+    width: 301px;
+    height: 162px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Composant_11__1 {
+    position: absolute;
+    width: 73.194px;
+    height: 51.464px;
+    left: 113.903px;
+    top: 67.198px;
+    overflow: visible;
+}
+#Rectangle_7 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_7 {
+    position: absolute;
+    overflow: visible;
+    width: 50px;
+    height: 34px;
+    left: 11.097px;
+    top: 9px;
+}
+#Icon_awesome-youtube_di {
+    fill: rgba(255,0,0,1);
+}
+.Icon_awesome-youtube_di {
+    overflow: visible;
+    position: absolute;
+    width: 73.194px;
+    height: 51.464px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_8_dk {
+    fill: url(#Rectangle_8_dk);
+}
+.Rectangle_8_dk {
+    position: absolute;
+    overflow: visible;
+    width: 301px;
+    height: 74px;
+    left: 0px;
+    top: 0px;
+}
+#Text_dl {
+    left: 274px;
+    top: 9px;
+    position: absolute;
+    overflow: visible;
+    width: 10px;
+    height: 25px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#NoPath_-_Copie_2_dm {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 19px;
+    top: 12px;
+    overflow: visible;
+}
+#MV_BTS_Blood_Sweat__Tears {
+    left: 60px;
+    top: 22px;
+    position: absolute;
+    overflow: visible;
+    width: 164px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Composant_26__1 {
+    position: absolute;
+    width: 302px;
+    height: 303px;
+    left: -382px;
+    top: 98px;
+    overflow: visible;
+}
+#Wake_Up {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 106px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+    text-transform: capitalize;
+}
+#BTS_sort_leur_premier_album_en {
+    left: 0px;
+    top: 45px;
+    position: absolute;
+    overflow: visible;
+    width: 303px;
+    height: 76px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Composant_12__8 {
+    position: absolute;
+    width: 301px;
+    height: 162px;
+    left: 1px;
+    top: 141px;
+    overflow: visible;
+}
+#NoPath_-_Copie_7 {
+    position: absolute;
+    width: 301px;
+    height: 162px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Composant_11__1_dt {
+    position: absolute;
+    width: 73.194px;
+    height: 51.464px;
+    left: 113.903px;
+    top: 67.198px;
+    overflow: visible;
+}
+#Rectangle_7_du {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_7_du {
+    position: absolute;
+    overflow: visible;
+    width: 50px;
+    height: 34px;
+    left: 11.097px;
+    top: 9px;
+}
+#Icon_awesome-youtube_dv {
+    fill: rgba(255,0,0,1);
+}
+.Icon_awesome-youtube_dv {
+    overflow: visible;
+    position: absolute;
+    width: 73.194px;
+    height: 51.464px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_8_dx {
+    fill: url(#Rectangle_8_dx);
+}
+.Rectangle_8_dx {
+    position: absolute;
+    overflow: visible;
+    width: 301px;
+    height: 74px;
+    left: 0px;
+    top: 0px;
+}
+#Text_dy {
+    left: 274px;
+    top: 9px;
+    position: absolute;
+    overflow: visible;
+    width: 10px;
+    height: 25px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#NoPath_-_Copie_2_dz {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 19px;
+    top: 12px;
+    overflow: visible;
+}
+#MV_BTS_Blood_Sweat__Tears_d {
+    left: 60px;
+    top: 22px;
+    position: absolute;
+    overflow: visible;
+    width: 164px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Composant_28__1 {
+    position: absolute;
+    width: 303px;
+    height: 283px;
+    left: 700px;
+    top: 96px;
+    overflow: visible;
+}
+#Youth {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 71px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+    text-transform: capitalize;
+}
+#Youth_est_le_deuxime_album_en_ {
+    left: 1px;
+    top: 46px;
+    position: absolute;
+    overflow: visible;
+    width: 303px;
+    height: 44px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Composant_12__12 {
+    position: absolute;
+    width: 301px;
+    height: 162px;
+    left: 0px;
+    top: 121px;
+    overflow: visible;
+}
+#NoPath_-_Copie_9 {
+    position: absolute;
+    width: 301px;
+    height: 162px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Composant_11__1_d {
+    position: absolute;
+    width: 73.194px;
+    height: 51.464px;
+    left: 113.903px;
+    top: 67.198px;
+    overflow: visible;
+}
+#Rectangle_7_d {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_7_d {
+    position: absolute;
+    overflow: visible;
+    width: 50px;
+    height: 34px;
+    left: 11.097px;
+    top: 9px;
+}
+#Icon_awesome-youtube_d {
+    fill: rgba(255,0,0,1);
+}
+.Icon_awesome-youtube_d {
+    overflow: visible;
+    position: absolute;
+    width: 73.194px;
+    height: 51.464px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_8_ea {
+    fill: url(#Rectangle_8_ea);
+}
+.Rectangle_8_ea {
+    position: absolute;
+    overflow: visible;
+    width: 301px;
+    height: 74px;
+    left: 0px;
+    top: 0px;
+}
+#Text_eb {
+    left: 274px;
+    top: 9px;
+    position: absolute;
+    overflow: visible;
+    width: 10px;
+    height: 25px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#NoPath_-_Copie_2_ec {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 19px;
+    top: 12px;
+    overflow: visible;
+}
+#MV_BTS_Blood_Sweat__Tears_ed {
+    left: 60px;
+    top: 22px;
+    position: absolute;
+    overflow: visible;
+    width: 164px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Composant_27__1 {
+    position: absolute;
+    width: 478px;
+    height: 410px;
+    left: 351px;
+    top: 0px;
+    overflow: visible;
+}
+#Dark__Wild {
+    left: 0px;
+    top: 96px;
+    position: absolute;
+    overflow: visible;
+    width: 143px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+    text-transform: capitalize;
+}
+#Le_premier_album_studio_de_BTS {
+    left: 1px;
+    top: 142px;
+    position: absolute;
+    overflow: visible;
+    width: 303px;
+    height: 60px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Composant_12__4 {
+    position: absolute;
+    width: 301px;
+    height: 162px;
+    left: 1px;
+    top: 248px;
+    overflow: visible;
+}
+#NoPath_-_Copie_6 {
+    position: absolute;
+    width: 301px;
+    height: 162px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Composant_11__1_ej {
+    position: absolute;
+    width: 73.194px;
+    height: 51.464px;
+    left: 113.903px;
+    top: 67.198px;
+    overflow: visible;
+}
+#Rectangle_7_ek {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_7_ek {
+    position: absolute;
+    overflow: visible;
+    width: 50px;
+    height: 34px;
+    left: 11.097px;
+    top: 9px;
+}
+#Icon_awesome-youtube_el {
+    fill: rgba(255,0,0,1);
+}
+.Icon_awesome-youtube_el {
+    overflow: visible;
+    position: absolute;
+    width: 73.194px;
+    height: 51.464px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_8_en {
+    fill: url(#Rectangle_8_en);
+}
+.Rectangle_8_en {
+    position: absolute;
+    overflow: visible;
+    width: 301px;
+    height: 74px;
+    left: 0px;
+    top: 0px;
+}
+#Text_eo {
+    left: 274px;
+    top: 9px;
+    position: absolute;
+    overflow: visible;
+    width: 10px;
+    height: 25px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#NoPath_-_Copie_2_ep {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 19px;
+    top: 12px;
+    overflow: visible;
+}
+#MV_BTS_Blood_Sweat__Tears_eq {
+    left: 60px;
+    top: 22px;
+    position: absolute;
+    overflow: visible;
+    width: 164px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Text_er {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 124px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 75px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 2px;
+    text-transform: capitalize;
+}
+#Text_es {
+    left: 355px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 124px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 75px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 2px;
+    text-transform: capitalize;
+}
+#Text_et {
+    left: -382px;
+    top: 3px;
+    position: absolute;
+    overflow: visible;
+    width: 124px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 75px;
+    color: rgba(130,130,130,1);
+    letter-spacing: 2px;
+    text-transform: capitalize;
+}
+#Composant_2__10 {
+    position: absolute;
+    width: 100px;
+    height: 41px;
+    left: 138px;
+    top: 1207px;
+    overflow: visible;
+    padding: 13px;
+}
+#Rectangle_4_ev {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_4_ev {
+    position: absolute;
+    overflow: visible;
+    width: 100px;
+    height: 41px;
+    left: 0px;
+    top: 0px;
+}
+#Lire_la_suite_ew {
+    left: 13px;
+    top: 13px;
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Composant_33__2 {
+    position: absolute;
+    width: 308px;
+    height: 1048px;
+    left: 34px;
+    top: 3370px;
+    overflow: visible;
+}
+#Composant_9__18_ey {
+    position: absolute;
+    width: 302px;
+    height: 261px;
+    left: 6px;
+    top: 0px;
+    overflow: visible;
+}
+#NoPath_-_Copie_ez {
+    position: absolute;
+    width: 146px;
+    height: 146px;
+    left: 0px;
+    top: 41px;
+    overflow: visible;
+}
+#n__Intro_ORUL82_2_NO_3_We_On_4_e {
+    left: 176px;
+    top: 41px;
+    position: absolute;
+    overflow: visible;
+    width: 127px;
+    height: 188px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.5px;
+}
+#ORUL82____2013_e {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 177px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Ou_lcouter__e {
+    left: 36px;
+    top: 249px;
+    position: absolute;
+    overflow: visible;
+    width: 76px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(0,0,0,0.502);
+    letter-spacing: 0.5px;
+}
+#Youtube_e {
+    left: 255px;
+    top: 249px;
+    position: absolute;
+    overflow: visible;
+    width: 48px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Deezer_e {
+    left: 193px;
+    top: 249px;
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Spotify_e {
+    left: 130px;
+    top: 249px;
+    position: absolute;
+    overflow: visible;
+    width: 43px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Composant_9__3_e {
+    position: absolute;
+    width: 302px;
+    height: 256px;
+    left: 6px;
+    top: 323px;
+    overflow: visible;
+}
+#NoPath_-_Copie_2_e {
+    position: absolute;
+    width: 146px;
+    height: 146px;
+    left: 0px;
+    top: 40px;
+    overflow: visible;
+}
+#n__Intro_Skool_Luv_Affair_2_Bo_e {
+    left: 176px;
+    top: 40px;
+    position: absolute;
+    overflow: visible;
+    width: 127px;
+    height: 188px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.5px;
+}
+#Skool_Luv_Affair____2014_e {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 231px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Ou_lcouter__fa {
+    left: 32px;
+    top: 244px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.5px;
+}
+#Youtube_fb {
+    left: 255px;
+    top: 244px;
+    position: absolute;
+    overflow: visible;
+    width: 48px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Spotify_fc {
+    left: 162px;
+    top: 244px;
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Composant_9__4_fd {
+    position: absolute;
+    width: 307px;
+    height: 335px;
+    left: 0px;
+    top: 640px;
+    overflow: visible;
+}
+#NoPath_fe {
+    position: absolute;
+    width: 146px;
+    height: 146px;
+    left: 0px;
+    top: 66px;
+    overflow: visible;
+}
+#n__Miss_Right_2_Like_Slow_Jam__ff {
+    left: 176px;
+    top: 66px;
+    position: absolute;
+    overflow: visible;
+    width: 132px;
+    height: 236px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.5px;
+}
+#Skool_Luv_Affair__Special_addi_fg {
+    left: 5px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 251px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Ou_lcouter__fh {
+    left: 36px;
+    top: 322px;
+    position: absolute;
+    overflow: visible;
+    width: 76px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.5px;
+}
+#Youtube_fi {
+    left: 258px;
+    top: 322px;
+    position: absolute;
+    overflow: visible;
+    width: 50px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Deezer_fj {
+    left: 205px;
+    top: 323px;
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Spotify_fk {
+    left: 135px;
+    top: 323px;
+    position: absolute;
+    overflow: visible;
+    width: 44px;
+    height: 12px;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Composant_2__9_fl {
+    position: absolute;
+    width: 100px;
+    height: 41px;
+    left: 107px;
+    top: 1007px;
+    overflow: visible;
+    padding: 13px;
+}
+#Rectangle_4_fm {
+    fill: transparent;
+    stroke: rgba(171,189,224,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_4_fm {
+    position: absolute;
+    overflow: visible;
+    width: 100px;
+    height: 41px;
+    left: 0px;
+    top: 0px;
+}
+#Lire_la_suite_fn {
+    left: 13px;
+    top: 13px;
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(171,189,224,1);
+    letter-spacing: 0.5px;
+}
+#Composant_34__1 {
+    position: absolute;
+    width: 234px;
+    height: 52px;
+    left: 0px;
+    top: 2044px;
+    overflow: visible;
+}
+#Rectangle_16 {
+    fill: rgba(224,171,202,1);
+}
+.Rectangle_16 {
+    position: absolute;
+    overflow: visible;
+    width: 234px;
+    height: 52px;
+    left: 0px;
+    top: 0px;
+}
+#BTS_ALBUMS {
+    left: 36px;
+    top: 11px;
+    position: absolute;
+    overflow: visible;
+    width: 186px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Composant_34__2 {
+    position: absolute;
+    width: 304px;
+    height: 52px;
+    left: 71px;
+    top: 3270px;
+    overflow: visible;
+}
+#Rectangle_16_fs {
+    fill: rgba(171,189,224,1);
+}
+.Rectangle_16_fs {
+    position: absolute;
+    overflow: visible;
+    width: 304px;
+    height: 52px;
+    left: 0px;
+    top: 0px;
+}
+#BTS_ALBUMS_LIVES {
+    left: 15px;
+    top: 11px;
+    position: absolute;
+    overflow: visible;
+    width: 276px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Myriad Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Capture_dcran_2023-01-26_08552 {
+    position: absolute;
+    width: 375px;
+    height: 449px;
+    left: 0px;
+    top: 5705px;
+    overflow: visible;
+}
+#Capture_dcran_2023-01-26_08552_fv {
+    position: absolute;
+    width: 375px;
+    height: 449px;
+    left: 0px;
+    top: 6603px;
+    overflow: visible;
+}
+#Capture_dcran_2023-01-26_08552_fw {
+    position: absolute;
+    width: 375px;
+    height: 449px;
+    left: 0px;
+    top: 6154px;
+    overflow: visible;
+}
